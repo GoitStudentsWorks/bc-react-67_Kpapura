@@ -1,11 +1,11 @@
 {
-  "name": "money-guard-project",
+  "name": "bc-react-67_Kpapura",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/money_guard_project/",
+    "build": "vite build --base=/bc-react-67_Kpapura/",
     "preview": "vite preview"
   },
   "devDependencies": {
